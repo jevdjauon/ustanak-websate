@@ -1,0 +1,10 @@
+.desavanja {
+    cursor: pointer;
+    opacity: 0.3;
+    width: 50%;
+}
+
+.activeDesavanja {
+    color: black;
+    opacity: 1;
+}

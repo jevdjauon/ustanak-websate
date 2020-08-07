@@ -1,0 +1,27 @@
+.left {
+    flex-basis: 50%;
+
+}
+
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    width: 100%;
+}
+
+.menu {
+    color: gray;
+    border-left: 2px solid white;
+
+}
+
+.activeMenuItem {
+    color: black;
+    border-left: 2px solid black;
+}
+
+.borderLeft {
+    border-left: none !important;
+}
